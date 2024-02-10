@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Oracle11g/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/activation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/asm-attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/cglib-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-email-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/dumbster-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/gson-2.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/hibernate-commons-annotations-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/hibernate-search-3.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/jaxb-impl-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/lucene-highlighter-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/quartz-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-aop-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-asm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-beans-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-context-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-core-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-expression-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-jdbc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-orm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-tx-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-web-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/spring-webmvc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/xalan-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/xml-apis-1.3.02.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/SpringHibernateJars/SpringHibernateJars/xom-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/aspectjweaver-1.6.11.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.aop-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.asm-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.beans-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.context.support-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.context-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.core-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.expression-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.jdbc-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/CBC training/spring_jars/spring jars/org.springframework.transaction-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
